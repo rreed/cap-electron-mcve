@@ -2,7 +2,7 @@
     "name": "cap-gyp-mcve",
     "version": "0.0.1",
     "devDependencies": {
-        "electron": "6.0.0",
+        "electron": "15.5.5",
         "electron-builder": "^21.2.0",
         "node-abi": "^2.10.0"
     },
